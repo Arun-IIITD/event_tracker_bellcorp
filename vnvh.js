@@ -1,1 +1,0 @@
-//make notes of backend and frontend in your sheets.
